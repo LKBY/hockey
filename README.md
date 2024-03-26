@@ -1,2 +1,1 @@
-# hockey
-na
+# Migthy Ducks Hockey League GAA
